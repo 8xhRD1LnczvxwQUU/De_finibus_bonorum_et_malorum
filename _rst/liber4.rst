@@ -15,9 +15,7 @@ Book VI
 
 	.. _b4s1:
 
-With these words he concluded. "A most faithful and lucid exposition, Cato," said I, "considering the wide range of your subject and its obscurity. Clearly I must either give up all idea of replying, or must take time to think it over; it is no easy task to get a thorough grasp of a system so elaborate, even if erroneous (for on that point I do not yet venture to speak), but at all events so highly finished both in its first principles and in their working out." "You don't say so!" replied Cato. "Do you suppose I am going to allow our suit to be adjourned, when I see you under this new law [#]_
-
-replying for the defence on the same day as your opponent concludes for the prosecution, and keeping your speech within a three hours' limit? Though you will find your present case as shaky as any of those which you now and then succeed in pulling off. So tackle this one like the rest, particularly as the subject is familiar; others have handled it before, and so have you repeatedly, so that you can hardly be gravelled for lack of matter."
+With these words he concluded. "A most faithful and lucid exposition, Cato," said I, "considering the wide range of your subject and its obscurity. Clearly I must either give up all idea of replying, or must take time to think it over; it is no easy task to get a thorough grasp of a system so elaborate, even if erroneous (for on that point I do not yet venture to speak), but at all events so highly finished both in its first principles and in their working out." "You don't say so!" replied Cato. "Do you suppose I am going to allow our suit to be adjourned, when I see you under this new law [#]_ replying for the defence on the same day as your opponent concludes for the prosecution, and keeping your speech within a three hours' limit? Though you will find your present case as shaky as any of those which you now and then succeed in pulling off. So tackle this one like the rest, particularly as the subject is familiar; others have handled it before, and so have you repeatedly, so that you can hardly be gravelled for lack of matter."
 
 	.. _b4s2:
 
@@ -35,9 +33,7 @@ Well, these philosophers observed
 
 	#. that we are so constituted as to have a natural aptitude for the recognized and standard virtues in general, I mean Justice, Temperance and the others of that class (all of which resemble the end of the arts, and differ only by excelling them in the material with which they work and in their treatment of it); they observed moreover that we pursue these virtues with a more lofty enthusiasm than we do the arts; and 
 	#. that we possess an implanted or rather an innate appetite for knowledge, and 
-	#. that we are naturally disposed towards social life with our fellow men and towards fellowship and community with the human race; and that these instincts are displayed most clearly in the most highly endowed natures. [#]_
-
-Accordingly they divided philosophy into three departments, a division that was retained, as we notice, by Zeno.
+	#. that we are naturally disposed towards social life with our fellow men and towards fellowship and community with the human race; and that these instincts are displayed most clearly in the most highly endowed natures. [#]_ Accordingly they divided philosophy into three departments, a division that was retained, as we notice, by Zeno.
 
 	.. _b4s5:
 
@@ -53,9 +49,7 @@ Then, in themes demanding ornate and dignified treatment, however imposing, how 
 
 	.. _b4s7:
 
-This whole field Zeno and his successors were either unable or unwilling to discover; at all events they left it untouched. Cleanthes it is true wrote a treatise on rhetoric, and Chrysippus wrote one too, but what are they like? why, they furnish a complete manual for anyone whose ambition is to hold his tongue; you can judge then of their style, coining new words, discarding those approved by use. 'But,' you will say, 'think how vast are the themes that they essay! for example, that this entire universe is our own town.' [#]_
-
-You see the magnitude of a Stoic's task, to convince an inhabitant of Circeii that the whole vast world is his own borough! 'If so, he must rouse his audience to enthusiasm.' What? a Stoic rouse enthusiasm? He is much more likely to extinguish any enthusiasm the student may have had to begin with. Even those brief maxims that you propounded, that the Wise Man alone is king, dictator, millionaire,--neatly rounded off no doubt as you put them: of course, for you learnt them from professors of rhetoric;--but how bald those very maxims, on the lips of the Stoics, when they talk about the potency of virtue,--virtue which they rate so highly that it can of itself, they say, confer happiness! Their meagre little syllogisms are mere pin-pricks; they may convince the intellect, but they cannot convert the heart, and the hearer goes away no better than he came. What they say is possibly true, and certainly important; but the way in which they say it is wrong; it is far too petty.
+This whole field Zeno and his successors were either unable or unwilling to discover; at all events they left it untouched. Cleanthes it is true wrote a treatise on rhetoric, and Chrysippus wrote one too, but what are they like? why, they furnish a complete manual for anyone whose ambition is to hold his tongue; you can judge then of their style, coining new words, discarding those approved by use. 'But,' you will say, 'think how vast are the themes that they essay! for example, that this entire universe is our own town.' [#]_ You see the magnitude of a Stoic's task, to convince an inhabitant of Circeii that the whole vast world is his own borough! 'If so, he must rouse his audience to enthusiasm.' What? a Stoic rouse enthusiasm? He is much more likely to extinguish any enthusiasm the student may have had to begin with. Even those brief maxims that you propounded, that the Wise Man alone is king, dictator, millionaire,--neatly rounded off no doubt as you put them: of course, for you learnt them from professors of rhetoric;--but how bald those very maxims, on the lips of the Stoics, when they talk about the potency of virtue,--virtue which they rate so highly that it can of itself, they say, confer happiness! Their meagre little syllogisms are mere pin-pricks; they may convince the intellect, but they cannot convert the heart, and the hearer goes away no better than he came. What they say is possibly true, and certainly important; but the way in which they say it is wrong; it is far too petty.
 
 .. _b4c4:
 
@@ -65,15 +59,11 @@ You see the magnitude of a Stoic's task, to convince an inhabitant of Circeii th
 
 	.. _b4s9:
 
-Again, how many different forms of Deduction they distinguish, and how widely these differ from sophistical syllogisms! [#]_
-
-Think how almost solemnly they reiterate that we must not expect to find truth in sensation unaided by reason, nor in reason without sensation, and that we are not to divorce the one from the other! Was it not they who first laid down the rules that form the stock-in-trade of professors of logic to-day? Logic, no doubt, was very fully worked out Chrysippus, but much less was done in it by Zeno than by the older schools; and in some parts of the subject his work was no improvement on that of his predecessors, while other parts he neglected altogether.
+Again, how many different forms of Deduction they distinguish, and how widely these differ from sophistical syllogisms! [#]_ Think how almost solemnly they reiterate that we must not expect to find truth in sensation unaided by reason, nor in reason without sensation, and that we are not to divorce the one from the other! Was it not they who first laid down the rules that form the stock-in-trade of professors of logic to-day? Logic, no doubt, was very fully worked out Chrysippus, but much less was done in it by Zeno than by the older schools; and in some parts of the subject his work was no improvement on that of his predecessors, while other parts he neglected altogether.
 
 	.. _b4s10:
 
-Of the two sciences which between them cover the whole field of reasoning and of oratory, one the Science of Topics [#]_
-
-and the other that of Logic, the latter has been handled by both Stoics and Peripatetics, but the former, though excellently taught by the Peripatetics, has not been touched by the Stoics at all. Of Topics, the store-chambers in which arguments are arranged ready for use, your school had not the faintest notion, whereas their predecessors propounded a regular technique and method. This science of Topics saves one from always having to drone out the same stock arguments on the same subjects without ever departing from one's notebooks. For one who knows under what general heading a particular case comes, and how to lead up to it, will be able to bring out any argument however far out of sight it lies, and always take a line of his own in debate. The fact is that, although some men of genius attain to eloquence without a system, nevertheless science is a safer guide than nature. A poetic out-pouring of language is one thing, the systematic and scientific marshalling of one's matter is another.
+Of the two sciences which between them cover the whole field of reasoning and of oratory, one the Science of Topics [#]_ and the other that of Logic, the latter has been handled by both Stoics and Peripatetics, but the former, though excellently taught by the Peripatetics, has not been touched by the Stoics at all. Of Topics, the store-chambers in which arguments are arranged ready for use, your school had not the faintest notion, whereas their predecessors propounded a regular technique and method. This science of Topics saves one from always having to drone out the same stock arguments on the same subjects without ever departing from one's notebooks. For one who knows under what general heading a particular case comes, and how to lead up to it, will be able to bring out any argument however far out of sight it lies, and always take a line of his own in debate. The fact is that, although some men of genius attain to eloquence without a system, nevertheless science is a safer guide than nature. A poetic out-pouring of language is one thing, the systematic and scientific marshalling of one's matter is another.
 
 .. _b4c5:
 
@@ -83,15 +73,11 @@ and the other that of Logic, the latter has been handled by both Stoics and Peri
 
 	.. _b4s12:
 
-The study of Natural Philosophy also affords the inexhaustible pleasure of acquiring knowledge, the sole pursuit which can afford an honourable and elevated occupation for the hours of leisure left when business has been finished. Now in the whole of this branch of philosophy, on most of the important points the Stoics followed the Peripatetics, maintaining that the gods exist and that the world is composed of the four elements. Then, coming to the very difficult question, whether we are to believe in the existence of a fifth substance, [#]_
-
-as the source of reason and intellect, and also the connected further question which element constitutes the soul, Zeno declared this substance to be fire; next, as to some details, but only a few, he diverged from his predecessors, but on the main question he agreed that the universe as a whole and its chief parts are governed by a divine mind and substance. In point of fullness, however, and fertility of treatment we will find the Stoics meagre, whereas the Peripatetics are copious in the extreme.
+The study of Natural Philosophy also affords the inexhaustible pleasure of acquiring knowledge, the sole pursuit which can afford an honourable and elevated occupation for the hours of leisure left when business has been finished. Now in the whole of this branch of philosophy, on most of the important points the Stoics followed the Peripatetics, maintaining that the gods exist and that the world is composed of the four elements. Then, coming to the very difficult question, whether we are to believe in the existence of a fifth substance, [#]_ as the source of reason and intellect, and also the connected further question which element constitutes the soul, Zeno declared this substance to be fire; next, as to some details, but only a few, he diverged from his predecessors, but on the main question he agreed that the universe as a whole and its chief parts are governed by a divine mind and substance. In point of fullness, however, and fertility of treatment we will find the Stoics meagre, whereas the Peripatetics are copious in the extreme.
 
 	.. _b4s13:
 
-What stores of facts they observed and recorded about the classification, reproduction, morphology and life-history of animals of every kind! and again about plants! How copious and wide in range their explanations of the causes and demonstrations of the mode of different natural phenomena! and all these stores supply them with numerous and conclusive arguments to explain the nature of each particular thing. So far then, as far as I at least can understand the case, there appears to have been no reason for the change of name; [#]_
-
-that Zeno was not prepared to follow the Peripatetics in every detail did not alter the fact that he had sprung from them. For my own part I consider Epicurus also, at all events in natural philosophy, simply a pupil of Democritus. He makes a few modifications, or indeed a good many; but on most points, and unquestionably the most important, he merely echoes his master. Your leaders do the same, yet neglect to acknowledge their full debt to the original discoverers.
+What stores of facts they observed and recorded about the classification, reproduction, morphology and life-history of animals of every kind! and again about plants! How copious and wide in range their explanations of the causes and demonstrations of the mode of different natural phenomena! and all these stores supply them with numerous and conclusive arguments to explain the nature of each particular thing. So far then, as far as I at least can understand the case, there appears to have been no reason for the change of name; [#]_ that Zeno was not prepared to follow the Peripatetics in every detail did not alter the fact that he had sprung from them. For my own part I consider Epicurus also, at all events in natural philosophy, simply a pupil of Democritus. He makes a few modifications, or indeed a good many; but on most points, and unquestionably the most important, he merely echoes his master. Your leaders do the same, yet neglect to acknowledge their full debt to the original discoverers.
 
 .. _b4c6:
 
@@ -101,9 +87,7 @@ that Zeno was not prepared to follow the Peripatetics in every detail did not al
 
 	.. _b4s15:
 
-Their second interpretation is that it means the same as 'to live in the performance of all, or most, of one's intermediate duties.' [#]_
-
-The Chief Good as thus expounded is not the same as that of the preceding interpretation. That is 'right action' (as you rendered katorthōma), and can be achieved only by the Wise Man, but this belongs to duty merely inchoate, so to speak, and not perfect, which may sometimes be attained by the foolish. Again, the third interpretation of the formula is 'to live in the enjoyment of all, or of the greatest, of those things which are in accordance with nature.' This does not depend solely on our own conduct, for it involves two factors, first a mode of life enjoying virtue, secondly a supply of the things which are in accordance with nature but which are not within our control. But the Chief Good as understood in the third and last interpretation, and life passed on the basis of the Chief Good, being inseparably coupled with virtue, lie within the reach of the Wise Man alone; and this is the account of the End of Goods, as we read in the writings of the Stoics themselves, which was given by Xenocrates and Aristotle. They therefore describe the primary constitution of nature, which was your starting point also, more or less in the following terms.
+Their second interpretation is that it means the same as 'to live in the performance of all, or most, of one's intermediate duties.' [#]_ The Chief Good as thus expounded is not the same as that of the preceding interpretation. That is 'right action' (as you rendered katorthōma), and can be achieved only by the Wise Man, but this belongs to duty merely inchoate, so to speak, and not perfect, which may sometimes be attained by the foolish. Again, the third interpretation of the formula is 'to live in the enjoyment of all, or of the greatest, of those things which are in accordance with nature.' This does not depend solely on our own conduct, for it involves two factors, first a mode of life enjoying virtue, secondly a supply of the things which are in accordance with nature but which are not within our control. But the Chief Good as understood in the third and last interpretation, and life passed on the basis of the Chief Good, being inseparably coupled with virtue, lie within the reach of the Wise Man alone; and this is the account of the End of Goods, as we read in the writings of the Stoics themselves, which was given by Xenocrates and Aristotle. They therefore describe the primary constitution of nature, which was your starting point also, more or less in the following terms.
 
 .. _b4c7:
 
@@ -227,9 +211,7 @@ Accordingly each never abandons its task of safeguarding the earlier elements; i
 
 	.. _b4s40:
 
-"But you protest that if other things than virtue go to make up happiness, virtue cannot be established. As a matter of fact it is entirely the other way about: it is impossible to find a place for virtue, unless all the things that she chooses and rejects are reckoned towards one sum-total of good. For if we entirely ignore ourselves, [#]_
-
-we shall fall into the mistakes and errors of Aristo, forgetting the things that we assigned as the origins of virtue herself; if while not ignoring these things, we yet do not reckon them in the End or Chief Good, we shall be well on the road towards the extravagances of Erillus, since we shall have to adopt two different rules of life at once. Erillus sets up two separate ultimate Goods, which, supposing his view were true, he ought to have united in one; but as it is he makes them so separate as to be mutually exclusive alternatives, which is surely the extreme of perversity.
+"But you protest that if other things than virtue go to make up happiness, virtue cannot be established. As a matter of fact it is entirely the other way about: it is impossible to find a place for virtue, unless all the things that she chooses and rejects are reckoned towards one sum-total of good. For if we entirely ignore ourselves, [#]_ we shall fall into the mistakes and errors of Aristo, forgetting the things that we assigned as the origins of virtue herself; if while not ignoring these things, we yet do not reckon them in the End or Chief Good, we shall be well on the road towards the extravagances of Erillus, since we shall have to adopt two different rules of life at once. Erillus sets up two separate ultimate Goods, which, supposing his view were true, he ought to have united in one; but as it is he makes them so separate as to be mutually exclusive alternatives, which is surely the extreme of perversity.
 
 	.. _b4s41:
 
@@ -281,9 +263,7 @@ Or how will Callipho or Diodorus be able to grant your premise, who combine with
 
 	.. _b4s51:
 
-The minor premise [#]_
-
-Polemo will concede to Zeno, and so will his master and the whole of their clan, as well as all the other philosophers that while ranking virtue far above all else yet couple some other thing with it in defining the Chief Good; since if virtue is a thing to be proud of, as it is, and excels everything else to a degree hardly to be expressed in words, Polemo will be able to be happy if endowed solely with virtue, and destitute of all besides, and yet he will not grant you that nothing except virtue is to be reckoned as a good. Those on the other hand whose Supreme Good dispenses with virtue will perhaps decline to grant that happiness contains any just ground for pride; although they, it is true, sometimes represent even pleasures as things to be proud of.
+The minor premise [#]_ Polemo will concede to Zeno, and so will his master and the whole of their clan, as well as all the other philosophers that while ranking virtue far above all else yet couple some other thing with it in defining the Chief Good; since if virtue is a thing to be proud of, as it is, and excels everything else to a degree hardly to be expressed in words, Polemo will be able to be happy if endowed solely with virtue, and destitute of all besides, and yet he will not grant you that nothing except virtue is to be reckoned as a good. Those on the other hand whose Supreme Good dispenses with virtue will perhaps decline to grant that happiness contains any just ground for pride; although they, it is true, sometimes represent even pleasures as things to be proud of.
 
 .. _b4c19:
 
@@ -307,9 +287,7 @@ For the logicians teach us, as you are aware, that if the consequences that foll
 
 	.. _b4s56:
 
-"Subsequently your little Phoenician (for you are aware that your clients of Citium originally came from Phoenicia), [#]_
-
-with the cunning of his race, finding he was losing his case with Nature up in arms against him, set about juggling with words. First he allowed the things that we in our school call goods to be considered 'valuable' and 'suited to nature,' and he began to admit that though a man were wise, that is, supremely happy, it would yet be an advantage to him if he also possessed the things which he is not bold enough to call goods, but allows to be 'suited to nature.' He maintains that Plato, even if he be not wise, is not in the same case as the tyrant Dionysius: Dionysius has no hope of wisdom, and his best fate would be to die; but Plato has hopes of it, and had better live. Again, he allows that some sins are endurable, while others are unpardonable, because some sins transgress more and others fewer points of duty; moreover some fools are so foolish as to be utterly incapable of attaining wisdom, but others might conceivably by great effort attain to wisdom.
+"Subsequently your little Phoenician (for you are aware that your clients of Citium originally came from Phoenicia), [#]_ with the cunning of his race, finding he was losing his case with Nature up in arms against him, set about juggling with words. First he allowed the things that we in our school call goods to be considered 'valuable' and 'suited to nature,' and he began to admit that though a man were wise, that is, supremely happy, it would yet be an advantage to him if he also possessed the things which he is not bold enough to call goods, but allows to be 'suited to nature.' He maintains that Plato, even if he be not wise, is not in the same case as the tyrant Dionysius: Dionysius has no hope of wisdom, and his best fate would be to die; but Plato has hopes of it, and had better live. Again, he allows that some sins are endurable, while others are unpardonable, because some sins transgress more and others fewer points of duty; moreover some fools are so foolish as to be utterly incapable of attaining wisdom, but others might conceivably by great effort attain to wisdom.
 
 	.. _b4s57:
 
@@ -321,9 +299,7 @@ Can we doubt that, if the older philosophers are not mistaken on the point of fa
 
 .. _b4c21:
 
-"Their statements are that appetition is excited in the mind when something appears to it to be in accordance with nature; and that all things that are in accordance with nature are worth some value, and are to be valued in proportion to the importance that they severally possess; and that of those things which are in accordance with nature, some excite of themselves none of that appetition of which we have often spoken already, and these are to be called neither honourable nor praiseworthy, while some are those which are objects of pleasure in every living creature, but in man are objects of the reason also; [#]_
-
-those which are dependent on the reason are called honourable, beautiful, praiseworthy; but the former class are called natural, the class which coupled with things morally worthy render happiness perfect and complete.
+"Their statements are that appetition is excited in the mind when something appears to it to be in accordance with nature; and that all things that are in accordance with nature are worth some value, and are to be valued in proportion to the importance that they severally possess; and that of those things which are in accordance with nature, some excite of themselves none of that appetition of which we have often spoken already, and these are to be called neither honourable nor praiseworthy, while some are those which are objects of pleasure in every living creature, but in man are objects of the reason also; [#]_ those which are dependent on the reason are called honourable, beautiful, praiseworthy; but the former class are called natural, the class which coupled with things morally worthy render happiness perfect and complete.
 
 	.. _b4s59:
 
@@ -347,9 +323,7 @@ What if those pupils of Plato were to come to life again, and their pupils again
 
 .. _b4c23:
 
-"Well, Cato, if you wanted to answer truly, this is what you would have to say: that with all respect for the high authority of men so gifted, you had observed that the Stoics had discovered truths which they in those early days had naturally failed to see; the Stoics had discussed the same subjects with more insight and had arrived at bolder and more profound conclusions; first, they said that good health is not desirable but worthy of selection, and that not because to be well is a good, but because it has some positive value (not that any greater value is attached to it by the older school who do not hesitate to call it a good); well then, you couldn't stand those bearded [#]_
-
-old fogies (as we call our own Roman ancestors) believing that a man who lived morally, if he also had health, wealth and reputation, had a preferable, better, more desirable life than he who, though equally good, was, like Alcmaeon in Ennius,
+"Well, Cato, if you wanted to answer truly, this is what you would have to say: that with all respect for the high authority of men so gifted, you had observed that the Stoics had discovered truths which they in those early days had naturally failed to see; the Stoics had discussed the same subjects with more insight and had arrived at bolder and more profound conclusions; first, they said that good health is not desirable but worthy of selection, and that not because to be well is a good, but because it has some positive value (not that any greater value is attached to it by the older school who do not hesitate to call it a good); well then, you couldn't stand those bearded [#]_ old fogies (as we call our own Roman ancestors) believing that a man who lived morally, if he also had health, wealth and reputation, had a preferable, better, more desirable life than he who, though equally good, was, like Alcmaeon in Ennius,
 
 	.. line-block::
 
@@ -412,9 +386,7 @@ Our friend Marcus Piso was often witty, but never more so than when he ridiculed
 
 	.. _b4s74:
 
-"The same verbal legerdemain supplies you with your kingdoms and empires and riches, riches so vast that you declare that everything the world contains is the property of the Wise Man. He alone, you say, is handsome, he alone a free man and a citizen: while the foolish are the opposite of all these, and according to you insane into the bargain. The Stoics call these paradoxa, as we might say 'startling truths.' But what is there so startling about them viewed at close quarters? I will consult you as to the meaning you attach to each term; there shall be no dispute. You Stoics say that all transgressions are equal. I won't jest with you now, as I did on the same subjects when you were prosecuting and I defending Lucius Murena. [#]_
-
-On that occasion I was addressing a jury, not an audience of scholars, and I even had to play to the gallery a little; but now I must reason more closely.
+"The same verbal legerdemain supplies you with your kingdoms and empires and riches, riches so vast that you declare that everything the world contains is the property of the Wise Man. He alone, you say, is handsome, he alone a free man and a citizen: while the foolish are the opposite of all these, and according to you insane into the bargain. The Stoics call these paradoxa, as we might say 'startling truths.' But what is there so startling about them viewed at close quarters? I will consult you as to the meaning you attach to each term; there shall be no dispute. You Stoics say that all transgressions are equal. I won't jest with you now, as I did on the same subjects when you were prosecuting and I defending Lucius Murena. [#]_ On that occasion I was addressing a jury, not an audience of scholars, and I even had to play to the gallery a little; but now I must reason more closely.
 
 	.. _b4s75:
 

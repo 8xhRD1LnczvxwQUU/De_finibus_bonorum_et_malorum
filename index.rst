@@ -10,8 +10,8 @@ Welcome to De finibus bonorum et malorum's documentation!
    :maxdepth: 2
    :caption: Cicero: de Finibus
 
-   _rst/leobintro
    _rst/thayernotes
+   _rst/leobintro
    _rst/liber1
    _rst/liber2
    _rst/liber3
